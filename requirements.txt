@@ -1,0 +1,4 @@
+python-telegram-bot==21.3
+requests==2.31.0
+yt-dlp==2024.5.27
+nest-asyncio==1.6.0
